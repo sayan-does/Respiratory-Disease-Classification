@@ -23,13 +23,15 @@ The model was trained for 20 epochs using the Adam optimizer and categorical cro
 
 The confusion matrix illustrates the model's performance on the validation set, with rows representing actual classes and columns representing predicted classes.
 
-[Insert Confusion Matrix Image]
+[Confusion_matrix.png]
 
 ### Training History
 
 The training history plots showcase the training and validation accuracy and loss over epochs, aiding in visualizing the model's learning progression and identifying overfitting.
 
-[Insert Training History Plots]
+[accuracy.png]
+
+[loss.png]
 
 ## Conclusion
 
