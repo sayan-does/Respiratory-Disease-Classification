@@ -31,7 +31,7 @@ The training history plots showcase the training and validation accuracy and los
 
 ![Training Accuracy vs Validation Accuracy](accuracy.png)
 
-###________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 
 ![Training Loss vs Validation Loss](Loss.png)
 
